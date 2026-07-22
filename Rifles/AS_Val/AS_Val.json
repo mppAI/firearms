@@ -1,0 +1,1436 @@
+{
+  "name": "AS Val突击步枪",
+  "baseStats": {
+    "dmg_flesh": 29,
+    "dmg_armor": 48,
+    "fireRate": 972,
+    "range": 21,
+    "recoil": 43,
+    "control": 62,
+    "stability": 51,
+    "hipFire": 57
+  },
+  "slots": {
+    "1": {
+      "name": "后握把",
+      "items": [
+        {
+          "id": 13030000170,
+          "name": "天蝎座后握把",
+          "stats": {
+            "recoil": 8,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13030000167,
+          "name": "AK重塔握把",
+          "stats": {
+            "recoil": 1,
+            "hipShot": 4,
+            "controlSpeed": 1,
+            "controlStable": 1,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13030000169,
+          "name": "RK3后握把",
+          "stats": {
+            "recoil": 3,
+            "controlSpeed": 3,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13030000122,
+          "name": "稳定AK后握把",
+          "stats": {
+            "recoil": 4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13030000168,
+          "name": "AK镂空握把",
+          "stats": {
+            "recoil": 3,
+            "controlSpeed": 9,
+            "controlStable": -4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13030000117,
+          "name": "实用AK后握把",
+          "stats": {
+            "recoil": 2,
+            "controlSpeed": 2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13030000121,
+          "name": "射手AK后握把",
+          "stats": {
+            "controlStable": 4,
+            "quickSeparate": 1
+          }
+        }
+      ]
+    },
+    "2": {
+      "name": "枪管",
+      "items": [
+        {
+          "id": 13020000410,
+          "name": "VSS海啸长枪管组合",
+          "stats": {
+            "recoil": 10,
+            "hipShot": -12,
+            "controlSpeed": -2,
+            "controlStable": 6,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13020000561,
+          "name": "AS Val刺客高级枪管",
+          "stats": {
+            "recoil": 12,
+            "hipShot": -16,
+            "controlSpeed": -4,
+            "controlStable": 6,
+            "quickSeparate": 1
+          }
+        }
+      ]
+    },
+    "3": {
+      "name": "枪托",
+      "items": [
+        {
+          "id": 13040000106,
+          "name": "实用轻型枪托",
+          "stats": {
+            "controlSpeed": 2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13040000105,
+          "name": "实用战术枪托",
+          "stats": {
+            "recoil": 4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13040000104,
+          "name": "实用稳定枪托",
+          "stats": {
+            "recoil": 2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13040000109,
+          "name": "精英轻型枪托",
+          "stats": {
+            "recoil": 3,
+            "controlSpeed": 3,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13040000107,
+          "name": "枢机稳固枪托",
+          "stats": {
+            "recoil": 6,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13040000108,
+          "name": "侵掠核心枪托",
+          "stats": {
+            "recoil": 6,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13040000009,
+          "name": "核心导轨枪托",
+          "stats": {
+            "recoil": 2,
+            "controlSpeed": 2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13040000167,
+          "name": "枢机先进战斗枪托",
+          "stats": {
+            "recoil": 4,
+            "hipShot": 8,
+            "controlSpeed": 1,
+            "controlStable": 1,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13040000007,
+          "name": "影袭导轨枪托",
+          "stats": {
+            "recoil": 7,
+            "controlSpeed": 7,
+            "controlStable": -6,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13040000184,
+          "name": "影袭托芯枪托",
+          "stats": {
+            "recoil": 2,
+            "hipShot": 8,
+            "controlSpeed": 10,
+            "controlStable": -6,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13040000006,
+          "name": "闪电导轨枪托",
+          "stats": {
+            "controlSpeed": 12,
+            "controlStable": -6,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13040000234,
+          "name": "锚点导轨后托",
+          "stats": {
+            "recoil": 4,
+            "controlSpeed": -2,
+            "controlStable": 6,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13040000112,
+          "name": "416轻型枪托",
+          "stats": {
+            "recoil": 6,
+            "controlSpeed": 6,
+            "controlStable": -6,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13040000113,
+          "name": "416稳固枪托",
+          "stats": {
+            "recoil": 4,
+            "controlSpeed": -6,
+            "controlStable": 8,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13040000224,
+          "name": "CT增强型后托",
+          "stats": {
+            "recoil": 2,
+            "hipShot": -8,
+            "controlSpeed": 6,
+            "controlStable": 2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13040000185,
+          "name": "骨架狙击枪托",
+          "stats": {
+            "recoil": -4,
+            "hipShot": -16,
+            "controlSpeed": 8,
+            "controlStable": 6,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13040000183,
+          "name": "MRGS镂空枪托",
+          "stats": {
+            "hipShot": -8,
+            "controlSpeed": 4,
+            "controlStable": 6,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13040000110,
+          "name": "UR特种战术枪托",
+          "stats": {
+            "recoil": 8,
+            "controlSpeed": -4,
+            "controlStable": 4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13040000225,
+          "name": "QR高性能后托",
+          "stats": {
+            "recoil": 3,
+            "hipShot": 16,
+            "controlSpeed": -2,
+            "controlStable": 3,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13030000125,
+          "name": "VSS精英一体枪托",
+          "stats": {
+            "recoil": 20,
+            "hipShot": -16,
+            "controlSpeed": -4,
+            "controlStable": 6,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13040000194,
+          "name": "AS Val枪托尾盖",
+          "stats": {
+            "recoil": -10,
+            "hipShot": 3,
+            "controlSpeed": 12,
+            "controlStable": -4,
+            "quickSeparate": 1
+          }
+        }
+      ]
+    },
+    "5": {
+      "name": "弹匣",
+      "items": [
+        {
+          "id": 13120000254,
+          "name": "VSS 45发弹匣",
+          "stats": {
+            "controlSpeed": -8,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13120000253,
+          "name": "VSS30发弹匣",
+          "stats": {
+            "controlSpeed": -4,
+            "quickSeparate": 1
+          }
+        }
+      ]
+    },
+    "8": {
+      "name": "前握把",
+      "items": [
+        {
+          "id": 13140000021,
+          "name": "实用垂直握把",
+          "stats": {
+            "recoil": 2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13140000022,
+          "name": "相位战斗前握把",
+          "stats": {
+            "recoil": 4,
+            "hipShot": 4,
+            "controlSpeed": 1,
+            "controlStable": 2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13140000023,
+          "name": "迷你阻手器",
+          "stats": {
+            "controlSpeed": 2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13140000024,
+          "name": "竞赛阻手器",
+          "stats": {
+            "recoil": -2,
+            "hipShot": 12,
+            "controlSpeed": 5,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13140000025,
+          "name": "VFG骑士前握把",
+          "stats": {
+            "controlSpeed": 4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13140000026,
+          "name": "斜角阻手器",
+          "stats": {
+            "recoil": -2,
+            "controlSpeed": 8,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13140000027,
+          "name": "战术三角握把",
+          "stats": {
+            "recoil": 4,
+            "controlSpeed": 2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13140000028,
+          "name": "ZFSG战术握把",
+          "stats": {
+            "recoil": -1,
+            "hipShot": 12,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13140000029,
+          "name": "RK-0前握把",
+          "stats": {
+            "recoil": 6,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13140000030,
+          "name": "密令斜角握把",
+          "stats": {
+            "recoil": 9,
+            "controlSpeed": -1,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13140000032,
+          "name": "战术垂直握把",
+          "stats": {
+            "controlSpeed": 6,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13140000033,
+          "name": "幻影垂直握把",
+          "stats": {
+            "recoil": 4,
+            "controlStable": -4,
+            "controlSpeed": 8,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13140000034,
+          "name": "共振人体工程握把",
+          "stats": {
+            "recoil": 9,
+            "controlSpeed": -1,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13140000035,
+          "name": "X25U斜侧战斗握把",
+          "stats": {
+            "recoil": 9,
+            "hipShot": 8,
+            "controlSpeed": -3,
+            "controlStable": -3,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13140000036,
+          "name": "K1精英斜角握把",
+          "stats": {
+            "recoil": 6,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13140000037,
+          "name": "折叠握把",
+          "stats": {
+            "recoil": -3,
+            "controlSpeed": 2,
+            "controlStable": 5,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13140000038,
+          "name": "伸缩脚架握把",
+          "stats": {
+            "hipShot": -12,
+            "controlSpeed": 3,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13140000039,
+          "name": "共振二代前握把",
+          "stats": {
+            "recoil": 6,
+            "controlSpeed": 6,
+            "controlStable": -4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13140000040,
+          "name": "CR棱镜阻手器",
+          "stats": {
+            "recoil": 6,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13140000041,
+          "name": "破晓垂直手电握把",
+          "stats": {
+            "recoil": 6,
+            "controlSpeed": -7,
+            "controlStable": 2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13140000042,
+          "name": "黎明三角手电握把",
+          "stats": {
+            "recoil": 8,
+            "controlSpeed": -5,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13140000043,
+          "name": "EC通用前阻手",
+          "stats": {
+            "recoil": -4,
+            "hipShot": 16,
+            "controlSpeed": 6,
+            "controlStable": 2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13140000044,
+          "name": "共振三代握把",
+          "stats": {
+            "recoil": 4,
+            "hipShot": 8,
+            "controlSpeed": -2,
+            "controlStable": 4,
+            "quickSeparate": 1
+          }
+        }
+      ]
+    },
+    "10": {
+      "name": "脚架",
+      "items": [
+        {
+          "id": 13170000004,
+          "name": "实用两脚架",
+          "stats": {
+            "controlSpeed": -4,
+            "quickSeparate": 1
+          }
+        }
+      ],
+      "dependsOn": {
+        "slot": "2",
+        "objectIds": [
+          13020000410,
+          13020000561
+        ]
+      }
+    },
+    "11": {
+      "name": "主瞄具",
+      "items": [
+        {
+          "id": 13110000040,
+          "name": "全息瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000065,
+          "name": "全息二型瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000042,
+          "name": "俄式准直二倍瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000098,
+          "name": "UHX全息瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000046,
+          "name": "反射式瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000085,
+          "name": "AP5000反射式瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000061,
+          "name": "okp-7反射瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000043,
+          "name": "全景红点瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000044,
+          "name": "XRO快速反应瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000102,
+          "name": "VMX无框瞄具",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000062,
+          "name": "微型红点瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000063,
+          "name": "战斗红点瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000064,
+          "name": "Cobra准直式瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000087,
+          "name": "Osight微型瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000089,
+          "name": "ACOG精准六倍镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000073,
+          "name": "视点3倍瞄准镜",
+          "stats": {
+            "controlSpeed": -4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000072,
+          "name": "1p-29俄制3倍瞄准镜",
+          "stats": {
+            "controlSpeed": -4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000053,
+          "name": "XCOG突击3.5倍瞄准镜",
+          "stats": {
+            "controlSpeed": -4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000093,
+          "name": "棱镜通用二倍光学瞄具",
+          "stats": {
+            "controlSpeed": -4,
+            "controlStable": 3,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000051,
+          "name": "HAMR组合瞄准镜",
+          "stats": {
+            "controlSpeed": -6,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000069,
+          "name": "LPVO多倍率战斗瞄具",
+          "stats": {
+            "controlSpeed": -6,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000082,
+          "name": "M157火控光学系统",
+          "stats": {
+            "controlSpeed": -6,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000099,
+          "name": "1p33 2/4倍望远镜",
+          "stats": {
+            "controlSpeed": -6,
+            "controlStable": 4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13210000012,
+          "name": "微型瞄具增高架",
+          "stats": {
+            "recoil": -1,
+            "controlSpeed": 2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13210000013,
+          "name": "多用途战术增高架",
+          "stats": {
+            "recoil": -1,
+            "controlSpeed": 2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13210000014,
+          "name": "MEO微型瞄具增高架",
+          "stats": {
+            "controlSpeed": -1,
+            "controlStable": 2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000052,
+          "name": "侦察1.5/5可调瞄准镜",
+          "stats": {
+            "controlSpeed": -8,
+            "controlStable": 6,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000057,
+          "name": "3/7可调倍率狙击镜",
+          "stats": {
+            "controlSpeed": -8,
+            "controlStable": 6,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000091,
+          "name": "灵眼3/7测距狙击瞄准镜",
+          "stats": {
+            "controlSpeed": -8,
+            "controlStable": 6,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000066,
+          "name": "先进热融合全息瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "controlStable": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000067,
+          "name": "先进白热成像战斗瞄准镜",
+          "stats": {
+            "controlSpeed": -8,
+            "controlStable": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000049,
+          "name": "PSO战斗2.5倍瞄准镜",
+          "stats": {
+            "controlSpeed": -6,
+            "quickSeparate": 1
+          }
+        }
+      ]
+    },
+    "14": {
+      "name": "战术设备",
+      "items": [
+        {
+          "id": 13160000005,
+          "name": "PEQ-2红色激光镭指",
+          "stats": {
+            "controlSpeed": -4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000009,
+          "name": "PERST-7蓝色激光镭指",
+          "stats": {
+            "controlSpeed": -4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000010,
+          "name": "DBAL-X2紫色激光镭指",
+          "stats": {
+            "controlSpeed": -4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000006,
+          "name": "LA-3C绿色激光镭指",
+          "stats": {
+            "controlSpeed": -4,
+            "quickSeparate": 1
+          }
+        }
+      ],
+      "dependsOn": {
+        "slot": "11",
+        "objectIds": [
+          13210000013
+        ]
+      }
+    },
+    "17": {
+      "name": "上导轨",
+      "items": [
+        {
+          "id": 13160000005,
+          "name": "PEQ-2红色激光镭指",
+          "stats": {
+            "controlSpeed": -4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000006,
+          "name": "LA-3C绿色激光镭指",
+          "stats": {
+            "controlSpeed": -4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000009,
+          "name": "PERST-7蓝色激光镭指",
+          "stats": {
+            "controlSpeed": -4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000010,
+          "name": "DBAL-X2紫色激光镭指",
+          "stats": {
+            "controlSpeed": -4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000007,
+          "name": "耀斑战术手电",
+          "stats": {
+            "controlSpeed": -1,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000018,
+          "name": "OLIGHT WARRIOR 3S战术手电",
+          "stats": {
+            "quickSeparate": 1
+          }
+        }
+      ],
+      "dependsOn": {
+        "slot": "2",
+        "objectIds": [
+          13020000410,
+          13020000561
+        ]
+      }
+    },
+    "19": {
+      "name": "左导轨",
+      "items": [
+        {
+          "id": 13160000005,
+          "name": "PEQ-2红色激光镭指",
+          "stats": {
+            "controlSpeed": -4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000006,
+          "name": "LA-3C绿色激光镭指",
+          "stats": {
+            "controlSpeed": -4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000009,
+          "name": "PERST-7蓝色激光镭指",
+          "stats": {
+            "controlSpeed": -4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000010,
+          "name": "DBAL-X2紫色激光镭指",
+          "stats": {
+            "controlSpeed": -4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000007,
+          "name": "耀斑战术手电",
+          "stats": {
+            "controlSpeed": -1,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000016,
+          "name": "OLIGHT Odin S战术手电",
+          "stats": {
+            "controlSpeed": -1,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000014,
+          "name": "OLIGHT Baldr Pro R多功能手电",
+          "stats": {
+            "hipShot": -8,
+            "controlSpeed": -5,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000008,
+          "name": "实用枪灯",
+          "stats": {
+            "controlSpeed": -1,
+            "quickSeparate": 1
+          }
+        }
+      ]
+    },
+    "20": {
+      "name": "右导轨",
+      "items": [
+        {
+          "id": 13160000005,
+          "name": "PEQ-2红色激光镭指",
+          "stats": {
+            "controlSpeed": -4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000006,
+          "name": "LA-3C绿色激光镭指",
+          "stats": {
+            "controlSpeed": -4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000009,
+          "name": "PERST-7蓝色激光镭指",
+          "stats": {
+            "controlSpeed": -4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000010,
+          "name": "DBAL-X2紫色激光镭指",
+          "stats": {
+            "controlSpeed": -4,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000007,
+          "name": "耀斑战术手电",
+          "stats": {
+            "controlSpeed": -1,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000016,
+          "name": "OLIGHT Odin S战术手电",
+          "stats": {
+            "controlSpeed": -1,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000014,
+          "name": "OLIGHT Baldr Pro R多功能手电",
+          "stats": {
+            "hipShot": -8,
+            "controlSpeed": -5,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000008,
+          "name": "实用枪灯",
+          "stats": {
+            "controlSpeed": -1,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13160000018,
+          "name": "OLIGHT WARRIOR 3S战术手电",
+          "stats": {
+            "quickSeparate": 1
+          }
+        }
+      ]
+    },
+    "31": {
+      "name": "侧瞄具",
+      "items": [
+        {
+          "id": 13110000076,
+          "name": "侧置全景红点瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000077,
+          "name": "侧置XRO快速反应瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000078,
+          "name": "侧置微型红点瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000079,
+          "name": "侧置战斗红点瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000088,
+          "name": "侧置Osight微型瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        }
+      ]
+    },
+    "41": {
+      "name": "增高座瞄具",
+      "items": [
+        {
+          "id": 13110000040,
+          "name": "全息瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000065,
+          "name": "全息二型瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000098,
+          "name": "UHX全息瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000046,
+          "name": "反射式瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000085,
+          "name": "AP5000反射式瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000061,
+          "name": "okp-7反射瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000043,
+          "name": "全景红点瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000044,
+          "name": "XRO快速反应瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000102,
+          "name": "VMX无框瞄具",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000062,
+          "name": "微型红点瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000063,
+          "name": "战斗红点瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000064,
+          "name": "Cobra准直式瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000087,
+          "name": "Osight微型瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000066,
+          "name": "先进热融合全息瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "controlStable": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000042,
+          "name": "俄式准直二倍瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13210000012,
+          "name": "微型瞄具增高架",
+          "stats": {
+            "recoil": -1,
+            "controlSpeed": 2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13210000014,
+          "name": "MEO微型瞄具增高架",
+          "stats": {
+            "controlSpeed": -1,
+            "controlStable": 2,
+            "quickSeparate": 1
+          }
+        }
+      ],
+      "dependsOn": {
+        "slot": "11",
+        "objectIds": [
+          13210000013
+        ]
+      }
+    },
+    "43": {
+      "name": "后握把座",
+      "items": [
+        {
+          "id": 13330000002,
+          "name": "平衡握把底座",
+          "stats": {
+            "recoil": 1,
+            "hipShot": 4,
+            "controlSpeed": 1,
+            "controlStable": 1,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13330000001,
+          "name": "稳固握把底座",
+          "stats": {
+            "recoil": 2,
+            "controlSpeed": -5,
+            "controlStable": 7,
+            "quickSeparate": 1
+          }
+        }
+      ],
+      "dependsOn": {
+        "slot": "1",
+        "objectIds": [
+          13030000167
+        ]
+      }
+    },
+    "44": {
+      "name": "弹匣座",
+      "items": [
+        {
+          "id": 13340000003,
+          "name": "郊狼中间威力口径快拔套(黑)",
+          "stats": {
+            "controlSpeed": 1,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13340000011,
+          "name": "郊狼中间威力快拔套(沙)",
+          "stats": {
+            "controlSpeed": 1,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13340000007,
+          "name": "郊狼中间威力快拔套(绿)",
+          "stats": {
+            "controlSpeed": 1,
+            "quickSeparate": 1
+          }
+        }
+      ]
+    },
+    "50": {
+      "name": "瞄准镜（微型增高架上）",
+      "items": [
+        {
+          "id": 13110000102,
+          "name": "VMX无框瞄具",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000044,
+          "name": "XRO快速反应瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000043,
+          "name": "全景红点瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000062,
+          "name": "微型红点瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000063,
+          "name": "战斗红点瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        },
+        {
+          "id": 13110000087,
+          "name": "Osight微型瞄准镜",
+          "stats": {
+            "controlSpeed": -2,
+            "quickSeparate": 1
+          }
+        }
+      ],
+      "dependsOnAny": [
+        {
+          "slot": "11",
+          "objectIds": [
+            13210000012,
+            13210000014
+          ]
+        },
+        {
+          "slot": "41",
+          "objectIds": [
+            13210000012,
+            13210000014
+          ]
+        }
+      ]
+    },
+    "54": {
+      "name": "拉机柄",
+      "items": [
+        {
+          "id": 13430000001,
+          "name": "泽宁特拉机柄帽",
+          "stats": {
+            "controlSpeed": 1,
+            "quickSeparate": 1
+          }
+        }
+      ]
+    }
+  }
+}
